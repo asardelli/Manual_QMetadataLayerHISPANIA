@@ -41,7 +41,7 @@ Se escribe el nombre del complemento en la parte superior, se selecciona y se ha
 
 ### Instalador ZIP
 
-La instalación a través de una carpeta zip que se puede descargar [aquí](https://github.com/asardelli/QMetadataLayerHISPANIAdownland.git). Para proceder con la instalación se selecciona la opción <i>Administrar e instalar complementos...</i> en el menú <i>Complemento</i>, seguido se desplega una ventana <b>"Complementos"</b>
+La instalación a través de una carpeta zip que se puede descargar [aquí](https://github.com/asardelli/QMetadataLayerHISPANIA.git). Para proceder con la instalación se selecciona la opción <i>Administrar e instalar complementos...</i> en el menú <i>Complemento</i>, seguido se desplega una ventana <b>"Complementos"</b>
 
 Se selecciona Instalar a partir de ZIP.
 
