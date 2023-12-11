@@ -133,7 +133,7 @@ Las variables globales a definir son 15 y llevan una estructura específica para
 
 > <b>Importante</b> este procedimiento se realiza una sola vez, pudiendo modificar las variables cuando sea requerido.
 
-#### El primer paso es definir las variables siguiendo el procedimiento descrito a continuación:
+El primer paso es definir las variables siguiendo el procedimiento descrito a continuación:
 
 En el menú <i>Configuración</i>, <i>Opciones</i> se hace clic y aparece la ventana de <b>Opciones</b>.
 
