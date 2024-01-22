@@ -25,6 +25,14 @@ QMetadataLayer fue realizado por <b>Aldo Sardelli</b> <asardelli@gmail.com> geó
 - <b>Twitter X:</b> <i>asardelli</i>
 - <b>Mastodon:</b> <i>@asardelli@fosstodon.org</i>
 
+## Otros recursos
+
+Canal de YouTube @asardelli
+link: https://youtube.com/@asardelli?si=dqyfQxMQDUR5OJUX
+
+Videos:
+[![Visualizacion]](https://youtube.com/shorts/XmxPxZvOP8c?si=VNSDXXuAIEhJqBv0)
+
 ## Instalación
 
 ### Servidor de QGIS
