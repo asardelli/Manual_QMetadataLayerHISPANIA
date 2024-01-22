@@ -24,14 +24,7 @@ QMetadataLayer fue realizado por <b>Aldo Sardelli</b> <asardelli@gmail.com> geó
 - <b>GitHub:</b>  <i>github.com/asardelli</i>
 - <b>Twitter X:</b> <i>asardelli</i>
 - <b>Mastodon:</b> <i>@asardelli@fosstodon.org</i>
-
-## Otros recursos
-
-Canal de YouTube @asardelli
-link: https://youtube.com/@asardelli?si=dqyfQxMQDUR5OJUX
-
-Videos:
-[![Visualizacion]](https://youtube.com/shorts/XmxPxZvOP8c?si=VNSDXXuAIEhJqBv0)
+- <b>Canal de YouTube<b> [@asardelli](https://youtube.com/@asardelli?si=dqyfQxMQDUR5OJUX)
 
 ## Instalación
 
@@ -1375,4 +1368,15 @@ De no completarse el proceso, será indicado en la parte superior del lienzo de 
 
 <p align="center">
 <img src="img_QML/Ve_63.png"  width="700" alt="Cintillo indicando que la ejecución no se completó">  
-</p> 
+</p>
+
+## Otros recursos
+
+Videos:  
+
+[![Uso de Metadatos existentes en la capa seleccionada](https://img.youtube.com/vi/njawNRE75o4/0.jpg)](https://youtube.com/shorts/njawNRE75o4)
+
+[![Uso de Metadatos existentes en la capa seleccionada](https://img.youtube.com/vi/kUVNE5G-leM/0.jpg)](https://youtu.be/kUVNE5G-leM)
+
+[![Uso de metadatos de otra capa](https://img.youtube.com/vi/c690BxjYXao/0.jpg)](https://youtu.be/c690BxjYXao ) 
+
