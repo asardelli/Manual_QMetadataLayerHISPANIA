@@ -1373,21 +1373,21 @@ De no completarse el proceso, será indicado en la parte superior del lienzo de 
 ## Otros recursos
 
 Videos:  
-
-[![Uso de Variables](https://img.youtube.com/vi/XmxPxZvOP8c/0.jpg)](https://youtube.com/shorts/XmxPxZvOP8c)   
 ### Visualización de los metadatos de una capa   
+[![Uso de Variables](https://img.youtube.com/vi/XmxPxZvOP8c/0.jpg)](https://youtube.com/shorts/XmxPxZvOP8c)   
 
-[![Uso de Variables](https://img.youtube.com/vi/njawNRE75o4/0.jpg)](https://youtube.com/shorts/njawNRE75o4)   
 ### Visualización dinámica de metadatos   
+[![Uso de Variables](https://img.youtube.com/vi/njawNRE75o4/0.jpg)](https://youtube.com/shorts/njawNRE75o4)   
 
-[![Uso de Variables](https://img.youtube.com/vi/A5AtQ1-8pkY/0.jpg)](https://youtube.com/shorts/A5AtQ1-8pkY)   
 ### Uso de Variables   
+[![Uso de Variables](https://img.youtube.com/vi/A5AtQ1-8pkY/0.jpg)](https://youtube.com/shorts/A5AtQ1-8pkY)   
 
-[![Uso de Metadatos existentes en la capa seleccionada](https://img.youtube.com/vi/kUVNE5G-leM/0.jpg)](https://youtu.be/kUVNE5G-leM)   
 ### Uso de Metadatos existentes en la capa seleccionada   
+[![Uso de Metadatos existentes en la capa seleccionada](https://img.youtube.com/vi/kUVNE5G-leM/0.jpg)](https://youtu.be/kUVNE5G-leM)   
 
-[![Uso de metadatos de otra capa](https://img.youtube.com/vi/c690BxjYXao/0.jpg)](https://youtu.be/c690BxjYXao )    
 ### Uso de metadatos de otra capa
+[![Uso de metadatos de otra capa](https://img.youtube.com/vi/c690BxjYXao/0.jpg)](https://youtu.be/c690BxjYXao )    
 
-[![Uso de Variables](https://img.youtube.com/vi/6s_Cz-mlKWE/0.jpg)](https://youtube.com/shorts/6s_Cz-mlKWE)   
 ### Limpiar formulario   
+[![Uso de Variables](https://img.youtube.com/vi/6s_Cz-mlKWE/0.jpg)](https://youtube.com/shorts/6s_Cz-mlKWE)   
+
