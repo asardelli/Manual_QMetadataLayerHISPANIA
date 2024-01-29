@@ -1374,7 +1374,8 @@ De no completarse el proceso, será indicado en la parte superior del lienzo de 
 
 Videos:  
 
-[![Uso de Metadatos existentes en la capa seleccionada](https://img.youtube.com/vi/njawNRE75o4/0.jpg)](https://youtube.com/shorts/njawNRE75o4)
+[![Uso de Metadatos existentes en la capa seleccionada](https://img.youtube.com/vi/njawNRE75o4/0.jpg)](https://youtube.com/shorts/njawNRE75o4)   
+### Uso de Metadatos existentes en la capa seleccionada   
 
 [![Uso de Metadatos existentes en la capa seleccionada](https://img.youtube.com/vi/kUVNE5G-leM/0.jpg)](https://youtu.be/kUVNE5G-leM)
 
