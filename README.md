@@ -225,7 +225,7 @@ Una lista con 249 países, dependencias o Estados en abreviatura de 3 letras, ej
 
 #### Categorías
 
-Las categorías es otra de la información estandarizada con las establecidas por las normas ISO y a las cuales se adicionaron las establecidas en la directriz ISPIRE de la Unión Europea, adicionalmente se establecieron otras generales y con temas relacionados a la industria de Oil & Gas. El usuario puede agregar manualmente en los metadatos de la capa categorías de uso específico y que no estén en el listado establecido, así como, editar alguna de estas. A continuación se muestra la lista de categorías ISO, Inspire y las adicionales:
+Las categorías es otra de la información estandarizada establecidas por las normas ISO y a las cuales se adicionaron la de la directriz ISPIRE de la Unión Europea, adicionalmente se establecieron otras generales y con temas relacionados a la industria de Oil & Gas. El usuario puede agregar manualmente en los metadatos de la capa categorías de uso específico y que no estén en el listado establecido, así como, editar alguna de estas. A continuación, se muestra la lista de categorías ISO, Inspire y las adicionales:
 
 | Categorías ISO | Categorías INSPIRE | Categorías Adicionales |
 | :--- | :--- | :--- |
