@@ -271,7 +271,7 @@ Las categorías es otra de la información estandarizada establecidas por las no
 |  |<b>**</b> <i>contenido en Elevación</i> |
 |  |<b>***</b> <i>contenido en Transporte</i> |
 
-<u>Procedimiento:</u> Para acceder a las categorias, solo se debe selección entre el listado presentado en el ítem "Categoría ISO" y al seleccionar automáticamente aparecerá en la parte inferior. Se puede escoger más de una categoría e incluso escribir tus propias categorías, solo debes separar una de otra con una coma (,) para que el complemento pueda reconocer que es más de un tema el que deseas agregar. A continuación se muestra como se realiza la selección de categorías.
+<u>Procedimiento:</u> Para acceder a las categorias, solo se debe selección entre el listado presentado en el ítem "Categoría ISO" y al seleccionar automáticamente aparecerá en la parte inferior. Se puede escoger más de una categoría e incluso escribir tus propias categorías, solo debes separar una de otra con una coma (,) para que el complemento pueda reconocer que es más de un tema el que deseas agregar. A continuación, se muestra como se realiza la selección de categorías.
 
 <p align="center">
 <img src="img_QML/VVe_3.gif"  width="400" alt="Agregar categorías">  
@@ -305,7 +305,7 @@ Se listaron las licencias [Creative Commons](https://creativecommons.org/license
 
 #### Rol
 
-Se establecieron roles relacionados con la autoría, propiedad y administración de los datos. Se presentan en el idioma Inglés como uso preestablecido en algunas aplicaciones de interoperabilidad, sin embargo, el usuario tiene la posibilidad de escribir manualmente para los metadatos de la capa el rol o editar los ya establecidos. A continuación se muestran los roles y su traducción al Español.
+Se establecieron roles relacionados con la autoría, propiedad y administración de los datos. Se presentan en el idioma Inglés como uso preestablecido en algunas aplicaciones de interoperabilidad, sin embargo, el usuario tiene la posibilidad de escribir manualmente para los metadatos de la capa el rol o editar los ya establecidos. A continuación, se muestran los roles y su traducción al Español.
 
 | Nombre del Rol | Código | Descripción |
 | :--- | :--- | :--- |
@@ -342,7 +342,7 @@ Se establecieron roles relacionados con la autoría, propiedad y administración
 
 Los tipos de dirección preestablecidos para un contacto son <b>Postal</b> para una dirección física y <b>Virtual</b> para direcciones en la red o computacionales.
 
-<u>Procedimiento:</u> El complemento permite solo seleccionar entre las opciones "Postal" y "Virtual". A continuación se muestra como se debe realizar la selección.
+<u>Procedimiento:</u> El complemento permite solo seleccionar entre las opciones "Postal" y "Virtual". A continuación, se muestra como se debe realizar la selección.
 
 <p align="center">
 <img src="img_QML/VVe_6.gif"  width="300" alt="Agregar Tipo de Dirección">  
@@ -380,7 +380,7 @@ Se preestablecieron los tipos de enlaces dispuestos por QGIS y que dependen de l
 | OGC:GML | OASIS:AMQP | NOAA:LAS |
 |  |  | OSM |
 
-<u>Procedimiento:</u> Para seleccionar el tipo de enlace, solo se debe escoger uno de la lista con 67 tipos. A continuación se muestra como es la selección.
+<u>Procedimiento:</u> Para seleccionar el tipo de enlace, solo se debe escoger uno de la lista con 67 tipos. A continuación, se muestra como es la selección.
 
 <p align="center">
 <img src="img_QML/VVe_7.gif"  width="300" alt="Agregar Tipo de Enlace">  
@@ -421,7 +421,7 @@ Cuando un contacto tiene más de una dirección, el sistema solicitará, a trav�
 <img src="img_QML/Ve_4.png"  width="500" alt="Ventana para elejir una dirección">  
 </p> 
 
-A continuación se muestra el procedimiento cuando existen más de una dirección para un contacto.
+A continuación, se muestra el procedimiento cuando existen más de una dirección para un contacto.
 
 <p align="center">
 <img src="img_QML/VVe_9.gif"  width="800" alt="Agregar Metadatos de capa activa con más d euna dirección">  
@@ -437,7 +437,7 @@ Los metadatos puede tener registrado más de un contacto, por tanto, el sistema 
 <img src="img_QML/Ve_5.png"  width="500" alt="Ventana para elejir un contacto">  
 </p> 
 
-A continuación se muestra el procedimiento cuando existen más de un contacto.
+A continuación, se muestra el procedimiento cuando existen más de un contacto.
 
 <p align="center">
 <img src="img_QML/VVe_10.gif"  width="800" alt="Agregar Metadatos de capa activa con más de un contacto">  
@@ -447,7 +447,7 @@ A continuación se muestra el procedimiento cuando existen más de un contacto.
 
 <u>Caso: Existe más de un contacto con más de una dirección</u>
 
-Si existe más de un contacto y el seleccionado presenta más de una dirección, el sistema realizará las consultas de elección: primero del contacto y dependiendo si este presenta múltiples direcciones, solicitará elegir una dirección. Los procedimientos de selección son iguales a los descritos en los casos anteriores. A continuación se muestra el procedimiento de selección.
+Si existe más de un contacto y el seleccionado presenta más de una dirección, el sistema realizará las consultas de elección: primero del contacto y dependiendo si este presenta múltiples direcciones, solicitará elegir una dirección. Los procedimientos de selección son iguales a los descritos en los casos anteriores. A continuación, se muestra el procedimiento de selección.
 
 <p align="center">
 <img src="img_QML/VVe_11.gif"  width="800" alt="Agregar Metadatos de capa activa con más de un contacto y más de una dirección">  
@@ -463,7 +463,7 @@ Los metadatos puede tener más de un enlace asociado, en este caso, el sistema s
 <img src="img_QML/Ve_6.png"  width="500" alt="Ventana para elejir un enlace">  
 </p> 
 
-A continuación se hace una demostración de la utilización de este módulo.
+A continuación, se hace una demostración de la utilización de este módulo.
 
 <p align="center">
 <img src="img_QML/VVe_12.gif"  width="800" alt="Agregar Metadatos de capa activa con más de enlace">  
@@ -489,7 +489,7 @@ La cantidad de capas en la lista es la misma cantidad de capas cargadas en el pr
 <img src="img_QML/Ve_8.png"  width="800" alt="Listados de capas a seleccioanr para leer metadatos">  
 </p>  
 
-A continuación una demostración de como extraer los datos de una capa específica.
+A continuación, una demostración de como extraer los datos de una capa específica.
 
 <p align="center">
 <img src="img_QML/VVe_13.gif"  width="800" alt="Agregar Metadatos de capa especifica">  
@@ -519,7 +519,7 @@ A través de esta opción es posible borrar toda la información en cada secció
 <img src="img_QML/clear.png"  width="200" alt="Boton Limíar formulario">  
 </p> 
 
-A continuación se muestra el procedimiento para limpiar una sección.
+A continuación, se muestra el procedimiento para limpiar una sección.
 
 <p align="center">
 <img src="img_QML/VVe_14.gif"  width="300" alt="Limpiar formulario">  
