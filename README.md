@@ -191,7 +191,7 @@ Bajo este sistema se pueden construir palabras en los ítems:
     ** Estados/Regiones/Departamentos/Provincias/Comunidad de los paises: Argentina, Bolivia, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Panamá, Paraguay, Perú, Uruguay, Venezuela y España.
     *** Poblaciones solo de Venezuela.
 
-A continuación un ejemplo de como funciona la completación de palabra en este paso para el ítem "País".
+A continuación, un ejemplo de como funciona la completación de palabra en este paso para el ítem "País".
 
 <p align="center">
 <img src="img_QML/Ve_3.png"  width="600" alt="reducir el menú">  
@@ -211,7 +211,7 @@ El Código puede escribirse o no, al seleccionar la ciudad se rellenará el íte
 
 ### Información estandarizada
 
-Existen algunos ítems que cuenta con listas con datos preestablecidos, para facilitar su incorporación y a la vez mantener los estándares. A continuación se muestran estas listas con el ítem al que se encuentran asociado.
+Existen algunos ítems que cuenta con listas con datos preestablecidos, para facilitar su incorporación y a la vez mantener los estándares. A continuación, se muestran estas listas con el ítem al que se encuentran asociado.
 
 #### Idioma
 
@@ -742,7 +742,7 @@ Agrega todos los metadatos aceptados por QGIS, para ello es recomendable rellena
 <img src="img_QML/Ve_10.png"  width="250" alt="Parte final del Resumen">  
 </p> 
 
-A continuación se muestra el proceso para agregar metadatos.
+A continuación, se muestra el proceso para agregar metadatos.
 
 <p align="center">
 <img src="img_QML/VVe_20.gif"  width="300" alt="Agregar metadatos">  
@@ -770,7 +770,7 @@ De no haber información cargada en el formulario, el resumen indicará porcenta
 <img src="img_QML/Ve_13.png"  width="250" alt="Resumen Palabra Clave sin información">  
 </p> 
 
-A continuación se muestra como es proceso de adicionar una Palabra Clave.
+A continuación, se muestra como es proceso de adicionar una Palabra Clave.
 
 <p align="center">
 <img src="img_QML/VVe_21.gif"  width="300" alt="Adicionar Palabras Clave">  
@@ -798,7 +798,7 @@ De no haber información cargada en el formulario, el resumen indicará porcenta
 <img src="img_QML/Ve_16.png"  width="250" alt="Resumen Restricciones sin información">  
 </p> 
 
-A continuación se muestra como es proceso de adicionar restricciones.
+A continuación, se muestra como es proceso de adicionar restricciones.
 
 <p align="center">
 <img src="img_QML/VVe_22.gif"  width="300" alt="Adicionar Restricciones">  
@@ -830,7 +830,7 @@ Si no existe información cargada en el formulario, el resumen indicará porcent
 <img src="img_QML/Ve_20.png"  width="250" alt="Resumen Adicionar un Contacto sin información">  
 </p> 
 
-A continuación se muestra como es proceso de adicionar un contacto.
+A continuación, se muestra como es proceso de adicionar un contacto.
 
 <p align="center">
 <img src="img_QML/VVe_23.gif"  width="300" alt="Adicionar un Contacto">  
@@ -868,7 +868,7 @@ Si no existe información cargada en el formulario, el resumen indicará porcent
 <img src="img_QML/Ve_24.png"  width="250" alt="Resumen Dirección sin información">  
 </p> 
 
-A continuación se muestra como es proceso de adicionar una dirección cuando los metadatos tienen un solo Contacto.
+A continuación, se muestra como es proceso de adicionar una dirección cuando los metadatos tienen un solo Contacto.
 
 <p align="center">
 <img src="img_QML/VVe_24.gif"  width="300" alt="Adicionar una direccion a un contacto">  
@@ -906,7 +906,7 @@ De no haber información cargada en el formulario, el resumen indicará porcenta
 <img src="img_QML/Ve_28.png"  width="250" alt="Resumen Adicionar un enlace sin información">  
 </p> 
 
-A continuación se muestra como es proceso de adicionar un enlace(link).
+A continuación, se muestra como es proceso de adicionar un enlace(link).
 
 <p align="center">
 <img src="img_QML/VVe_26.gif"  width="300" alt="Adicionar un enlace">  
@@ -1102,7 +1102,7 @@ Si no existen restricciones que remover, será indicado en el resumen y el botó
 <img src="img_QML/Ve_46.png"  width="250" alt="Resumen Remover cuando no hay contactos">  
 </p> 
 
-A continuación se muestra el proceso completo para eliminar un único contacto.
+A continuación, se muestra el proceso completo para eliminar un único contacto.
 
 <p align="center">
 <img src="img_QML/VVe_36.gif"  width="300" alt="Remover la único contacto">  
@@ -1156,7 +1156,7 @@ De no existir un contacto registrado, será indicado en el resumen y el botón "
 <img src="img_QML/Ve_52.png"  width="250" alt="Resumen Remover cuando no existe contacto">  
 </p> 
 
-A continuación se muestra el proceso completo para remover la única dirección registrada del único contacto.
+A continuación, se muestra el proceso completo para remover la única dirección registrada del único contacto.
 
 <p align="center">
 <img src="img_QML/VVe_38.gif"  width="300" alt="Remover la única dirección del único contacto">  
@@ -1232,7 +1232,7 @@ Esta opción permite eliminar todos los metadatos de la capa, por lo cual se deb
 <img src="img_QML/Ve_58.png"  width="250" alt="Resumen Remover todos los Metadatos">  
 </p> 
 
-A continuación se muestra el proceso para eliminar todos los metadatos de la capa.
+A continuación, se muestra el proceso para eliminar todos los metadatos de la capa.
 
 <p align="center">
 <img src="img_QML/VVe_43.gif"  width="300" alt="Remover Metadatos">  
