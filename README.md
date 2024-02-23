@@ -1394,4 +1394,7 @@ Videos:
 ### Información estandarizada   
 [![Información estandarizada](https://img.youtube.com/vi/SzJQ4244Y6U/0.jpg)](https://youtube.com/shorts/SzJQ4244Y6U)   
 
+### Auto Completación de Ítem   
+[![Auto Completación de Ítem](https://img.youtube.com/vi/Z13tKfiGF1k/0.jpg)](https://youtu.be/Z13tKfiGF1k)   
+
 
