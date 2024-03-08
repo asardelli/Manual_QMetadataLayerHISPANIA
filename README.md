@@ -1397,4 +1397,7 @@ Videos:
 ### Auto Completación de Ítem   
 [![Auto Completación de Ítem](https://img.youtube.com/vi/Z13tKfiGF1k/0.jpg)](https://youtu.be/Z13tKfiGF1k)   
 
+### Ejecución de funciones para agregar, modificar y remover metadatos de una capa   
+[![Ejecución de funciones](https://img.youtube.com/vi/8oGclODQDR0/0.jpg)](https://youtu.be/8oGclODQDR0)   
+
 
